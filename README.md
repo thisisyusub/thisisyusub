@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I am a software engineering at @fonibo from Azerbaijan, Baku 
+I am a software engineering at (Pragmatech and)[https://www.pragmatech.az/] (Fonibo)[https://fonibo.com/] from Azerbaijan, Baku 
 
-- 🔭 I’m currently working on []()
+- 🔭 I’m currently working on (Handy)[https://github.com/yusubx/Handy]
 - 🌱 I’m currently learning how to be good software engineer
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about [Flutter]() and [Dart]()
-- 📫 How to reach me: ...
+- 💬 Ask me about [Flutter](https://github.com/flutter/flutter) and [Dart](https://github.com/dart-lang)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a big fan of comedy
 
