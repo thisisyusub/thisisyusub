@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineering at [Pragmatech](https://www.pragmatech.az/) and [Fonibo](https://fonibo.com/) from Azerbaijan, Baku 
+I am a software engineer at [Pragmatech](https://www.pragmatech.az/) and [Fonibo](https://fonibo.com/) from Azerbaijan, Baku 
 
 - 🔭 I’m currently working on [Handy](https://github.com/yusubx/Handy)
 - 🌱 I’m currently learning how to be good software engineer
