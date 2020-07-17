@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a software engineering at (Pragmatech and)[https://www.pragmatech.az/] (Fonibo)[https://fonibo.com/] from Azerbaijan, Baku 
+I am a software engineering at [Pragmatech](https://www.pragmatech.az/) and [Fonibo](https://fonibo.com/) from Azerbaijan, Baku 
 
-- 🔭 I’m currently working on (Handy)[https://github.com/yusubx/Handy]
+- 🔭 I’m currently working on [Handy](https://github.com/yusubx/Handy)
 - 🌱 I’m currently learning how to be good software engineer
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with ...
