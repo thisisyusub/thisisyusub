@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/yusubov_kanan?style=social)
+
+
 I am a software engineer at [Pragmatech](https://www.pragmatech.az/) and [Fonibo](https://github.com/fonibo/) from Azerbaijan, Baku 
 
 - 🔭 I’m currently working on [Handy](https://github.com/yusubx/Handy) and [Fonibo](https://fonibo.com/)
