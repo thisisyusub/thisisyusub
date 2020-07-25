@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/yusubov_kanan?style=social)
-
+<a href="https://twitter.com/yusubov_kanan">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/yusubov_kanan?style=social">
+</a>
 
 I am a software engineer at [Pragmatech](https://www.pragmatech.az/) and [Fonibo](https://github.com/fonibo/) from Azerbaijan, Baku 
 
