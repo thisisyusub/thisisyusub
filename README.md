@@ -11,8 +11,8 @@
 
 I am a software engineer at [Pragmatech](https://www.pragmatech.az/) and [Fonibo](https://github.com/fonibo/) from Azerbaijan, Baku.
 
-2020 - now: Master of Sciece in **Computer Engineering**, [BEU](http://www.beu.edu.az/en) </br>
-2016 - 2020: Bachelor of Science in **Computer Engineering**, [ASOIU](http://www.asoiu.edu.az/en)
+2020 - now:MSc in **Computer Engineering**, [BEU](http://www.beu.edu.az/en) </br>
+2016 - 2020: BSc in **Computer Engineering**, [ASOIU](http://www.asoiu.edu.az/en)
 
 - 🔭 I’m currently working on [Handy](https://github.com/yusubx/Handy) and [Fonibo](https://fonibo.com/)
 - 🌱 I’m currently learning how to be good software engineer
