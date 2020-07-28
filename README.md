@@ -8,7 +8,7 @@
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/flutter_aze?style=social">
 </a>
 
-
+-------------
 I am a software engineer at [Pragmatech](https://www.pragmatech.az/) and [Fonibo](https://github.com/fonibo/) from Azerbaijan, Baku and founder of [Azerbaijan Flutter Users Community](https://www.facebook.com/groups/225232131679922/).
 
 2020 - now: MSc in **Computer Engineering**, [BEU](http://www.beu.edu.az/en) </br>
