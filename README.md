@@ -9,7 +9,8 @@
 </a>
 
 
-I am a software engineer at [Pragmatech](https://www.pragmatech.az/) and [Fonibo](https://github.com/fonibo/) from Azerbaijan, Baku.
+I am a software engineer at [Pragmatech](https://www.pragmatech.az/) and [Fonibo](https://github.com/fonibo/) from Azerbaijan, Baku.</br>
+Founder of [Azerbaijan Flutter Users Community](https://www.facebook.com/groups/225232131679922/)
 
 2020 - now: MSc in **Computer Engineering**, [BEU](http://www.beu.edu.az/en) </br>
 2016 - 2020: BSc in **Computer Engineering**, [ASOIU](http://www.asoiu.edu.az/en)
