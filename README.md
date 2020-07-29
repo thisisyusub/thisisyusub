@@ -40,3 +40,7 @@ I am a software engineer at [Pragmatech](https://www.pragmatech.az/) and [Fonibo
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a big fan of comedy
 
+<a href="https://github.com/yusubx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusubx&zsh-theme&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusubx&zsh-theme&layout=compact" />
+</a>
