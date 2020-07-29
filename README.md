@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there!
 <h3 align="center">Social Networks</h3>
 
 <p align="center">
