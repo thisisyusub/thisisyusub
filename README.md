@@ -14,7 +14,7 @@
 <img alt="Facebook URL" src="https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkananyusubov%2F">
 </a>  
 
-<a href="https:https://medium.com/@kanan.yusubov">
+<a href="https://medium.com/@kanan.yusubov">
 <img alt="Medium URL" src="https://img.shields.io/twitter/url?label=Medium&logo=Medium&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkananyusubov%2F">
 </a>  
 
