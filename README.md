@@ -16,10 +16,13 @@ I am a software engineer at [Fonibo](https://github.com/fonibo/) from Azerbaijan
 ### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
 
 </br>
 </br>
@@ -36,3 +39,5 @@ I am a software engineer at [Fonibo](https://github.com/fonibo/) from Azerbaijan
 [facebook]: https://www.facebook.com/kanan.yusub
 [twitter]: https://twitter.com/yusubov_kanan
 [linkedin]: https://www.linkedin.com/in/kananyusubov/
+[medium]: https://medium.com/@kanan.yusubov
+[stackoverflow]: https://stackoverflow.com/users/12742809/kanan-yusubov
