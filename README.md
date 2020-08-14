@@ -49,13 +49,15 @@ I am a software engineer at [Fonibo](https://github.com/fonibo/) from Azerbaijan
 <details>
   <summary>:zap: Github Stats</summary>
  </br> 
+  
+</details>
+
 <a href="https://github.com/yusubx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusubx&zsh-theme&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusubx&zsh-theme&layout=compact" />
 </a>
 
 
-</details>
 
 [website]: https://yusubx.github.io/Resume
 [youtube]: https://www.youtube.com/channel/UC9j42eR0UxQTwKHY_j71i4g
