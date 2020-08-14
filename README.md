@@ -21,6 +21,9 @@ I am a software engineer at [Fonibo](https://github.com/fonibo/) from Azerbaijan
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+</br>
+</br>
+
 
 <a href="https://github.com/yusubx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusubx&zsh-theme&show_icons=true" />
