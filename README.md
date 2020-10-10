@@ -60,4 +60,4 @@ I am also Google DSC Lead (2020-2021) at BEU (Baku Engineering University).
 [twitter]: https://twitter.com/yusubov_kanan
 [linkedin]: https://www.linkedin.com/in/kananyusubov/
 [medium]: https://medium.com/@kanan.yusubov
-[stackoverflow]: https://stackoverflow.com/users/12742809/kanan-yusubov
+[stackoverflow]: https://stackoverflow.com/users/10996870/kanan-yusubov
