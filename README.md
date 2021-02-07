@@ -9,7 +9,7 @@ I am also Google DSC Lead (2020-2021) at BEU (Baku Engineering University).
 
 
 - 🔭 I’m currently working on [Fonibo](https://fonibo.com/) as Flutter Developer
-- 🌱 I’m currently learning [Node.js](https://nodejs.org/en/)
+- 🌱 I’m currently learning [Node.js](https://nodejs.org/en/) for building REST API
 - 💬 Ask me about [Flutter](https://github.com/flutter/flutter) and [Dart](https://github.com/dart-lang)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a big fan of comedy
