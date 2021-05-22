@@ -10,5 +10,5 @@ I am a Lead Flutter Engineer at [Frazex LLC](https://github.com/Frazex-LLC) from
 - 🌱 I’m currently learning [Node.js](https://nodejs.org/en/) for building REST API
 - 💬 Ask me about [Flutter](https://github.com/flutter/flutter) and [Dart](https://github.com/dart-lang)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am a big fan of comedy
+- ⚡ Fun fact: I am a big fan of comedy && I have a dog named `Rocky`
 
