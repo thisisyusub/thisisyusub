@@ -14,7 +14,7 @@ I am a Lead Flutter Engineer at [Frazex LLC](https://github.com/Frazex-LLC) from
 
 <a href="https://github.com/thisisyusub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisisyusub&zsh-theme&show_icons=true&theme=react"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=thisisyusub&theme=react" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=thisisyusub&theme=react&show_icons=true" />
 </a>
 
 
