@@ -1,4 +1,4 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there!
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there!
 
 I am a Lead Flutter Engineer at [Frazex LLC](https://github.com/Frazex-LLC) from Azerbaijan, Baku and founder of [Azerbaijan Flutter Users Community](https://www.facebook.com/groups/225232131679922/).
 
@@ -12,7 +12,7 @@ I am a Lead Flutter Engineer at [Frazex LLC](https://github.com/Frazex-LLC) from
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a big fan of comedy && I have a dog named `Rocky`
 
-## My articles
+### My articles
 [1. Bloc Testing: Write Your First Simple Unit Test in Flutter](https://medium.com/flutter-community/bloc-testing-write-your-first-simple-unit-test-in-flutter-1eee1d1642aa)
 
 
