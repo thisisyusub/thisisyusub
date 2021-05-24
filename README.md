@@ -12,6 +12,11 @@ I am a Lead Flutter Engineer at [Frazex LLC](https://github.com/Frazex-LLC) from
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a big fan of comedy && I have a dog named `Rocky`
 
+## My articles
+[1. Bloc Testing: Write Your First Simple Unit Test in Flutter](https://medium.com/flutter-community/bloc-testing-write-your-first-simple-unit-test-in-flutter-1eee1d1642aa)
+
+
+
 <a href="https://github.com/thisisyusub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisisyusub&zsh-theme&show_icons=true&theme=react"/>
 </a>
