@@ -18,7 +18,7 @@ I am a Lead Flutter Engineer from Azerbaijan, Baku and founder of [Azerbaijan Fl
 
 
 <a href="https://github.com/thisisyusub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisisyusub&zsh-theme&show_icons=true&theme=ayu-mirage"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisisyusub&zsh-theme&show_icons=true"/>
 </a>
 
 ### Languages and Tools:
