@@ -7,7 +7,7 @@ I am a Lead Flutter Engineer from Azerbaijan, Baku and founder of [Azerbaijan Fl
 
 
 - 🔭 I’m currently working on [Frazex LLC](https://github.com/Frazex-LLC) as Lead Flutter Engineer
-- 🌱 I’m currently learning [Node.js](https://nodejs.org/en/) for building REST API
+- 🌱 I’m currently learning DDD (Domain Driven Design) in Flutter
 - 💬 Ask me about [Flutter](https://github.com/flutter/flutter) and [Dart](https://github.com/dart-lang)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a big fan of comedy && I have a dog named `Rocky`
