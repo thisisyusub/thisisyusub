@@ -13,7 +13,7 @@ I am a Lead Flutter Engineer from Azerbaijan, Baku and founder of [Azerbaijan Fl
 - ⚡ Fun fact: I am a big fan of comedy && I have a dog named `Rocky`
 
 ### Public Artifacts
-- [Flutter Tutorials (From Beginnner to Advanced](https://www.youtube.com/playlist?list=PLKLWpjPq8LfiRzB_GIQhld7Pz8UmvChOQ)
+- [Flutter Tutorials (From Beginnner to Advanced)](https://www.youtube.com/playlist?list=PLKLWpjPq8LfiRzB_GIQhld7Pz8UmvChOQ)
 - [Bloc Testing: Write Your First Simple Unit Test in Flutter](https://medium.com/flutter-community/bloc-testing-write-your-first-simple-unit-test-in-flutter-1eee1d1642aa)
 
 <a href="https://github.com/thisisyusub">
