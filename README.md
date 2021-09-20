@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there!
 
-I am a Lead Flutter Engineer from Azerbaijan, Baku and founder of [Azerbaijan Flutter Users Community](https://www.facebook.com/groups/225232131679922/).
+I am a Flutter Engineer with about 2 years experience from Azerbaijan, Baku and founder of [Azerbaijan Flutter Users Community](https://www.facebook.com/groups/225232131679922/).
 
 2020 - now: MSc in **Computer Engineering**, [BEU](http://www.beu.edu.az/en) </br>
 2016 - 2020: BSc in **Computer Engineering**, [ASOIU](http://www.asoiu.edu.az/en)
