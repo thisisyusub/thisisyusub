@@ -9,7 +9,7 @@ I am a Flutter Engineer with about 2 years experience from Azerbaijan, Baku and 
 - 🔭 I’m currently unemployed and trying to learn `Node.JS` to become `Fullstack Flutter Developer`
 - 💬 Ask me about [Flutter](https://github.com/flutter/flutter) and [Dart](https://github.com/dart-lang)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am a big fan of comedy && I have a dog named `Rocky`
+- ⚡ Fun fact: I am a big fan of comedy && I have a pet named `Rocky`
 
 ### Public Artifacts
 - [Flutter Tutorials (From Beginnner to Advanced)](https://www.youtube.com/playlist?list=PLKLWpjPq8LfiRzB_GIQhld7Pz8UmvChOQ)
@@ -18,6 +18,7 @@ I am a Flutter Engineer with about 2 years experience from Azerbaijan, Baku and 
 ### Open Source Projects
 
 [![Kanza CLI](https://github-readme-stats.vercel.app/api/pin/?username=thisisyusub&repo=kanza-cli)](https://github.com/thisisyusub/kanza-cli)
+[![Flutter Architecture Guideline](https://github-readme-stats.vercel.app/api/pin/?username=thisisyusub&repo=Flutter-Architecture-Guideline)](https://github.com/thisisyusub/Flutter-Architecture-Guideline)
 
 
 
