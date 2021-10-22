@@ -18,7 +18,10 @@ I am a Flutter Engineer with about 2 years experience from Azerbaijan, Baku and 
 ### Open Source Projects
 
 [![Kanza CLI](https://github-readme-stats.vercel.app/api/pin/?username=thisisyusub&repo=kanza-cli)](https://github.com/thisisyusub/kanza-cli)
+[![Corona News](https://github-readme-stats.vercel.app/api/pin/?username=KanZa-Studio&repo=Corona-News)](https://github.com/KanZa-Studio/Corona-News)
+
 [![Flutter Architecture Guideline](https://github-readme-stats.vercel.app/api/pin/?username=thisisyusub&repo=Flutter-Architecture-Guideline)](https://github.com/thisisyusub/Flutter-Architecture-Guideline)
+[![Responsive Assistant](https://github-readme-stats.vercel.app/api/pin/?username=thisisyusub&repo=responsive_assistant)](https://github.com/thisisyusub/responsive_assistant)
 
 
 
