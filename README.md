@@ -34,7 +34,8 @@ I am a Flutter Engineer with about 2+ years experience from Azerbaijan, Baku and
 - Firebase
 - Express.js
 - Mongo DB
-
+- JWT (Json Web Token)
+- 
 
 
 
