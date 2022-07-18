@@ -3,7 +3,7 @@
 
 I am a Flutter Engineer with about 3+ years experience from Azerbaijan, Baku and founder of [Azerbaijan Flutter Users Community](https://www.facebook.com/groups/225232131679922/).
 
-2020 - 2022 (processing): MSc in **Computer Engineering**, [BEU](http://www.beu.edu.az/en) </br> (GPA 96)
+2020 - 2022 (processing): MSc in **Computer Engineering**, [BEU](http://www.beu.edu.az/en) (GPA 96) </br>
 2016 - 2020: BSc in **Computer Engineering**, [ASOIU](http://www.asoiu.edu.az/en) (GPA 93)
 
 
