@@ -7,7 +7,7 @@ I am a Flutter Engineer with about 3+ years experience from Azerbaijan, Baku and
 2016 - 2020: BSc in **Computer Engineering**, [ASOIU](http://www.asoiu.edu.az/en) (GPA 93)
 
 
-- 🔭 I’m currently working on [Starex.az](http://www.starex.az) and trying to learn `PostgreSQL` to become `Fullstack Flutter Developer`
+- 🔭 I’m currently working on [Azerconnect LLC](https://github.com/AzDigitalLab) and trying to learn `PostgreSQL` and `Java Spring Framework` to become `Fullstack Flutter Developer`
 - 💬 Ask me about [Flutter](https://github.com/flutter/flutter) and [Dart](https://github.com/dart-lang)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a big fan of comedy && I have a pet named `Rocky`
