@@ -8,7 +8,7 @@ I am a Flutter Engineer with about 3+ years experience from Azerbaijan, Baku and
 
 
 - 🔭 I’m currently working on [Azerconnect LLC](https://github.com/AzDigitalLab) as `Senior Mobile Platforms Engineer`
-- I am trying to learn `PostgreSQL` and `Java Spring Framework` to become `Fullstack Flutter Developer`
+- I am trying to learn `Go Language`
 - 💬 Ask me about [Flutter](https://github.com/flutter/flutter) and [Dart](https://github.com/dart-lang)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a big fan of comedy && I have a pet named `Rocky`
