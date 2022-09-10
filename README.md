@@ -1,5 +1,6 @@
 ## Hi there!
 
+![alt text](https://i.imgur.com/K8w20CV.gif)
 
 I am a Flutter Engineer with about 3+ years experience from Azerbaijan, Baku and founder of [Azerbaijan Flutter Users Community](https://www.facebook.com/groups/225232131679922/).
 
@@ -18,28 +19,3 @@ I am a Flutter Engineer with about 3+ years experience from Azerbaijan, Baku and
 - [Bloc Testing: Write Your First Simple Unit Test in Flutter](https://medium.com/flutter-community/bloc-testing-write-your-first-simple-unit-test-in-flutter-1eee1d1642aa)
 - [Clean Architecture, TDD, Unit Testing, Feature-First Structure, DI](https://www.youtube.com/watch?v=EVMH6HBMxY8&t=1964s)
 - [Envorinment Variables in Flutter](https://www.youtube.com/watch?v=hGGGGoVLIHY)
-
-### Skills
-- Dart/Flutter
-- Javascript
-- Node.JS
-- State Management - Bloc, Provider, Riverpod, etc
-- TDD (Test Driven Development)
-- Unit testing
-- Clean Architecture
-- CI (Continuous Integration)
-- Algorithms
-- Data Structures
-- Design Patterns
-- Git
-- Github Actions
-- Sentry
-- Firebase
-- Express.js
-- Mongo DB
-- JWT (Json Web Token)
-- SQL
-
-
-
-
