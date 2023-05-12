@@ -14,6 +14,7 @@ I am a Flutter Engineer with about 3+ years experience from Azerbaijan, Baku and
 - ⚡ Fun fact: I am a big fan of comedy && I have a pet named `Rocky`
 
 ### Public Artifacts
+- [New features in Dart 3.0](https://yusubov.com/news-features-in-dart-3)
 - [Flutter Tutorials (From Beginnner to Advanced)](https://www.youtube.com/playlist?list=PLKLWpjPq8LfiRzB_GIQhld7Pz8UmvChOQ)
 - [Bloc Testing: Write Your First Simple Unit Test in Flutter](https://medium.com/flutter-community/bloc-testing-write-your-first-simple-unit-test-in-flutter-1eee1d1642aa)
 - [Clean Architecture, TDD, Unit Testing, Feature-First Structure, DI](https://www.youtube.com/watch?v=EVMH6HBMxY8&t=1964s)
