@@ -6,7 +6,7 @@ I am a Mobile Software Engineer  with about 5+ years of Flutter and 2 years of A
 2016 - 2020: BSc in **Computer Engineering**, [ASOIU](http://www.asoiu.edu.az/en) (GPA 93)
 
 
-- 🔭 I’m currently working on [ABB]([https://github.com/AzDigitalLab](https://abb-bank.az/)) as `Android Develop`
+- 🔭 I’m currently working on [Azercell](https://www.azercell.com) as `Flutter Engineer`
 - I am writing in `Kotlin` (XML and Jetpack Compose) and `Dart`
 - I am currently reading [Jetpack Compose Internals](https://www.google.com/search?client=safari&rls=en&q=jetpack+compose+internals&ie=UTF-8&oe=UTF-8) book
 - 😄 Pronouns: he/him/his
