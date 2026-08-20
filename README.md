@@ -10,7 +10,7 @@ I am a Mobile Software Engineer  with about 5+ years of Flutter and 2 years of A
 - I am writing in `Kotlin` (XML and Jetpack Compose) and `Dart`
 - I am currently reading [Jetpack Compose Internals](https://www.google.com/search?client=safari&rls=en&q=jetpack+compose+internals&ie=UTF-8&oe=UTF-8) book
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am a big fan of comedy && I have a pet named `Rocky`
+- ⚡ Fun fact: I am a big fan of comedy && I have a lovely child named `Mariam`
 
 ### My Packages
 - [Design System Catalog - ComposeBook](https://github.com/thisisyusub/compose-book)
