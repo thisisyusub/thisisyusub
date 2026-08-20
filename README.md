@@ -19,6 +19,8 @@ I am a Mobile Software Engineer  with about 5+ years of Flutter and 2 years of A
 - [Jwt Handler and Session Management - jwt_hero](https://pub.dev/packages/jwt_hero)
 
 ### Public Artifacts
+- [Make scalable routing system for your Flutter Apps](https://medium.com/flutter-community/make-scalable-routing-system-for-your-flutter-apps-73510bf3d602)
+- [Building Component with State Holder Pattern in Jetpack Compose](https://medium.com/proandroiddev/building-component-with-state-holder-pattern-in-jetpack-compose-089e94ce27f7)
 - [Building a Localization without Context in Flutter](https://medium.com/flutter-community/building-a-localization-without-context-in-flutter-1e639dae6f06)
 - [Design System from scratch in Flutter](https://medium.com/flutter-community/design-system-from-scratch-in-flutter-bc2aebb8bb02)
 - [Writing a Simple Dependency Injector in Flutter](https://medium.com/@thisisyusub/writing-a-simple-dependency-injector-in-flutter-478e8410e772)
